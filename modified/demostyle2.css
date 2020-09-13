@@ -1,0 +1,137 @@
+.mainIcon
+{
+    background-image: url(logo-1561819118194.png);
+/*    background-color: transparent;*/
+    width: auto;
+    height: 190px;
+    position:absolute;
+    left: -10px;
+    top: -10px;
+}
+ 
+body
+{
+    background-image: url("lambo.jpg");
+/*    background-size:;*/
+/*    position:sticky;*/
+/*    padding-bottom: 100px;*/
+    padding: 0px;
+    margin:0px;
+}
+
+.models{
+
+
+    background-image: url("bmw.jpg");
+    background-size:cover;
+    position: absolute;
+    top: 24%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-family:monospace;
+    font-size: 20px;
+    align-items: flex-end;
+    padding-left: -20px;
+    
+    
+    
+}
+.container{
+
+    background:url("Bugatti_Chiron_era_Super_Car_HD_Wallpapers.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 150px;
+    
+}
+
+.result
+{
+    
+    color: #1B2631 ;
+    background-image: url("sky2.jpg");
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 25px;
+    padding-right: 0px;
+    
+}
+
+
+.result2
+{
+    
+    color: #1B2631 ;
+    background-image: url("sky2.jpg");
+    padding-bottom: 50px;
+    padding-top: 50px;
+    font-size: 40px;
+    padding-right: 0px;
+    
+}
+
+p{
+    
+    
+    font-size: 20px;
+    font-weight: bold;
+/*    font-family: 'Ubuntu', sans-serif;*/
+    font-family: 'Prompt', sans-serif;
+/*    color: #1B2631 ;*/
+    color:white;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    background-color: #AED6F1 ;
+/*    backface-visibility: visible;*/
+
+}
+
+.text
+{
+    color: white;
+    background-color: #2E4053; 
+    font-family: 'Prompt', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 3px;
+    word-spacing: 6px;
+}
+
+h3
+{
+/*   font-family: 'Baloo Tammudu 2', cursive;*/
+    background-image:url(bmw.jpg);
+    font-family: 'Quicksand', sans-serif;
+    color: #FCF3CF  ;
+    font-weight: 200;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+       
+}
+
+
+.name{
+    
+    
+    font-size: 40px;
+    color: #FDFEFE;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.box{
+    text-align: center;
+    border:5px solid;
+    border-color:#AED6F1;
+    padding:0px;
+    flex-direction: row;
+    background-image: url(dream.jpg);
+    
+    flex:2;
+    align-items: center;
+    justify-content: space-around;
+    width:35%;
+    padding-bottom: 150px;
+}
+
+
